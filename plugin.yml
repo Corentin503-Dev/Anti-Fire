@@ -1,5 +1,5 @@
 name: AntiBurnBlock
 author: Corentin503
-api: 4.0.0
+api: 5.0.0
 version: 1.0.1
-main: Corentin503\Main
+main: Corentin503ABB\Main
